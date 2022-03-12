@@ -8,6 +8,12 @@ def compress(filepath,filename_in, filename_out, ext, action):
             pdf.compress(filepath, filename_out,ext)
         else:
             pdf.decompress(filepath, filename_out,ext)
+            
+    elif ext in ['.mp3', '.wav', '.ogg', '.flac']:
+       if action == 1:
+            pdf.compress(filepath, filename_out,ext)
+       else:
+            pdf.decompress(filepath, filename_out,ext) 
     
     elif ext in ['.mp4','.mov','.mkv']:
         if action == 1:
