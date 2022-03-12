@@ -10,7 +10,7 @@ while executing compression algorithm , '.pdf','.txt','.docx','.pptx' these file
 
 ### Type of files supported by this compression algorithm:
 
-'.pdf','.txt','.docx','.pptx' , '.mp4','.mov','.mkv' , '.jpeg', '.bmp', '.jpg', '.png' ...
+'.pdf','.txt','.docx','.pptx' | '.mp4','.mov','.mkv' | '.mp3', '.wav', '.ogg' | '.jpeg', '.bmp', '.jpg', '.png' ...
 
 ### Folder Struture : 
 
