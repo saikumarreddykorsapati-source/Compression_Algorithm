@@ -16,6 +16,3 @@ while executing compression algorithm , '.pdf','.txt','.docx','.pptx' these file
 
 ![image](https://user-images.githubusercontent.com/72125175/158023347-11a3a8c4-db95-428e-a321-d2e99fc61d31.png)
 
-### Type of file formats supported by this compression algorithm:
-
-'.pdf','.txt','.docx','.pptx' , '.mp4','.mov','.mkv' , '.jpeg', '.bmp', '.jpg', '.png' ...
