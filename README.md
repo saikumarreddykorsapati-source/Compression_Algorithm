@@ -1,4 +1,9 @@
 # DSA_Challenge_3_Compression_Algorithm
+
+### Complete Explanation :
+* Youtube Video : https://youtu.be/ATWk5ZU0Ijc
+##### Note: 
+* in case of Decompression select 2 as option and choose the compressed file, it will be decompressed and stored in decompressed files folder.
  
 ### Tech Stack Used :
 
